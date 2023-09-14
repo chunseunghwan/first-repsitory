@@ -6,4 +6,7 @@ if __name__ == '__main__':
     pn.is_prime_number(13)
     pn.is_prime_number(24)
     pn.is_prime_number(31)
+
+def Print():
+    print("nsnsnsnsns")
     

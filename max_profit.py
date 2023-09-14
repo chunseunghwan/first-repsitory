@@ -7,3 +7,6 @@ def maxProfit_bruteforce (prices):
 
    return
 
+a=int(input())
+if a==100:
+    print("dhdhdhdh")
