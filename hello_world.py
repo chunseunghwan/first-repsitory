@@ -6,6 +6,8 @@ def my_impormation():
 a=int(input("값 입력:"))
 print(type(a))
 
+printf("contribute :)")
+
 if __name__ == '__main__':
     print_hello()
     
